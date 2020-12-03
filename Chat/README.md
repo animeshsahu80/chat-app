@@ -45,8 +45,7 @@ I have lot of things to do.
 * More feauters to come, like blocking a user from chatting etc.  
 * Option for saving chats in case you need it. For now it doesnot store the messages.
 
-# Suggestions
-If you have any suggestions please do mail me at `sudheeshshetty@gmail.com` with subject as `chat-suggestions`
+`
 
 # Credits
 I have used some code from AdminLTE for the chat UI. The HTML and dependent CSS.  
